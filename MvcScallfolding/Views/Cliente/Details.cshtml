@@ -1,0 +1,45 @@
+@model MvcScallfolding.Models.Cliente
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Cliente</legend>
+
+    <div class="display-label">Nome</div>
+    <div class="display-field">@Model.Nome</div>
+
+    <div class="display-label">Idade</div>
+    <div class="display-field">@Model.Idade</div>
+
+    <fieldset>
+    <legend>Endereco</legend>
+
+    <div class="display-label">Logradouro</div>
+    <div class="display-field">@Model.Endereco.Logradouro</div>
+
+    <div class="display-label">Numero</div>
+    <div class="display-field">@Model.Endereco.Numero</div>
+
+    <div class="display-label">Complemento</div>
+    <div class="display-field">@Model.Endereco.Complemento</div>
+
+    <div class="display-label">Bairro</div>
+    <div class="display-field">@Model.Endereco.Bairro</div>
+
+    <div class="display-label">Cidade</div>
+    <div class="display-field">@Model.Endereco.Cidade</div>
+
+    <div class="display-label">CEP</div>
+    <div class="display-field">@Model.Endereco.CEP</div>
+</fieldset>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+

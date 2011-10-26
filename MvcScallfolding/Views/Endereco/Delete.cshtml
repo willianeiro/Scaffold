@@ -1,0 +1,38 @@
+@model MvcScallfolding.Models.Endereco
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Endereco</legend>
+
+    <div class="display-label">Logradouro</div>
+    <div class="display-field">@Model.Logradouro</div>
+
+    <div class="display-label">Numero</div>
+    <div class="display-field">@Model.Numero</div>
+
+    <div class="display-label">Complemento</div>
+    <div class="display-field">@Model.Complemento</div>
+
+    <div class="display-label">Bairro</div>
+    <div class="display-field">@Model.Bairro</div>
+
+    <div class="display-label">Cidade</div>
+    <div class="display-field">@Model.Cidade</div>
+
+    <div class="display-label">CEP</div>
+    <div class="display-field">@Model.CEP</div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}
+
+

@@ -1,0 +1,7 @@
+c:\Documents and Settings\whideki\Meus documentos\Visual Studio 2010\Projects\MvcScallfolding\MvcScallfolding\bin\MvcScallfolding.dll
+c:\Documents and Settings\whideki\Meus documentos\Visual Studio 2010\Projects\MvcScallfolding\MvcScallfolding\bin\MvcScallfolding.pdb
+c:\Documents and Settings\whideki\Meus documentos\Visual Studio 2010\Projects\MvcScallfolding\MvcScallfolding\bin\EntityFramework.dll
+c:\Documents and Settings\whideki\Meus documentos\Visual Studio 2010\Projects\MvcScallfolding\MvcScallfolding\bin\EntityFramework.xml
+c:\Documents and Settings\whideki\Meus documentos\Visual Studio 2010\Projects\MvcScallfolding\MvcScallfolding\obj\Debug\ResolveAssemblyReference.cache
+c:\Documents and Settings\whideki\Meus documentos\Visual Studio 2010\Projects\MvcScallfolding\MvcScallfolding\obj\Debug\MvcScallfolding.dll
+c:\Documents and Settings\whideki\Meus documentos\Visual Studio 2010\Projects\MvcScallfolding\MvcScallfolding\obj\Debug\MvcScallfolding.pdb
