@@ -5,3 +5,6 @@ c:\Documents and Settings\whideki\Meus documentos\Visual Studio 2010\Projects\Mv
 c:\Documents and Settings\whideki\Meus documentos\Visual Studio 2010\Projects\MvcScallfolding\MvcScallfolding\obj\Debug\ResolveAssemblyReference.cache
 c:\Documents and Settings\whideki\Meus documentos\Visual Studio 2010\Projects\MvcScallfolding\MvcScallfolding\obj\Debug\MvcScallfolding.dll
 c:\Documents and Settings\whideki\Meus documentos\Visual Studio 2010\Projects\MvcScallfolding\MvcScallfolding\obj\Debug\MvcScallfolding.pdb
+C:\Source\Scaffold\MvcScallfolding\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\Scaffold\MvcScallfolding\obj\Debug\MvcScallfolding.dll
+C:\Source\Scaffold\MvcScallfolding\obj\Debug\MvcScallfolding.pdb
